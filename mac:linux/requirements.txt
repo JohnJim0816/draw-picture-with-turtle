@@ -1,0 +1,7 @@
+beautifulsoup4==4.9.1
+bs4==0.0.1
+lxml==4.5.1
+numpy==1.18.5
+opencv-python==4.2.0.34
+playsound==1.2.2
+soupsieve==2.0.1
